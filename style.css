@@ -1,0 +1,12 @@
+body {
+    background-color: darkblue;
+  }
+.mybio {
+    margin: auto;
+    color: white;
+    border-style: none;
+    background-color: red;
+    width: 60%;
+    padding: 30px 10px;
+    text-align: center
+}
